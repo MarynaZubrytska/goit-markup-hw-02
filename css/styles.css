@@ -9,7 +9,6 @@ body {
 ul {
     list-style-type: none;
 }
-
 a {
     text-decoration: none;
 }
@@ -65,7 +64,6 @@ h3 {
 .contacts:hover {
     color: #404BBF;
 }
-
 .section-title
 {
     background-color: #2E2F42;
@@ -78,7 +76,6 @@ h3 {
     color: #FFFFFF;
     text-align: center;
 }
-
 .title-button
 { font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -116,13 +113,17 @@ footer{
     background-color: #2E2F42;
 }
 .footer-logo
-{font-family: "Raleway", sans-serif;
+{
+    font-family: "Raleway", sans-serif;
     color: #F4F4FD;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
     letter-spacing: 3%;
-    text-transform: uppercase;}
+    text-transform: uppercase;
+}
 .footer-text
-{color: #F4F4FD;
-text-align: left;}
+{
+    color: #F4F4FD;
+    text-align: left;
+}

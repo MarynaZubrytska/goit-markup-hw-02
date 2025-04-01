@@ -78,9 +78,6 @@ a {
 .title-button:focus {
     background-color: #404BBF;
 }
-.advantages .headline {
-display: none;
-}
 .subtitle {
     font-size: 20px;
     font-weight: 500;
